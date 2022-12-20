@@ -1,9 +1,9 @@
 # Python Para Principiantes: Aprender a programar con Python de manera práctica y paso a paso (lanzamiento en Enero de 2023)
 Repositorio del libro "Python Para Principiantes: Aprender a programar con Python de manera práctica y paso a paso".
 
-<img src="https://m.media-amazon.com/images/I/31gjcSZv3UL.jpg" alt="Python Para Principiantes" height="256px" align="right">
+<a href="https://www.amazon.com/dp/B0BQN5FF55/"><img src="https://m.media-amazon.com/images/I/31gjcSZv3UL.jpg" alt="Python Para Principiantes" height="256px" align="right">
 
-Este repositorio contiene todo el código del libro "Python Para Principiantes".
+Este repositorio contiene todo el código del libro [Python Para Principiantes](https://www.amazon.com/dp/B0BQN5FF55).
 
 ## ¿Qué cubre este libro?
 Libro para principiantes en programación y en Python.
