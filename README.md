@@ -6,7 +6,9 @@ Repositorio del libro "Python Para Principiantes: Aprender a programar con Pytho
 Este repositorio contiene todo el código del libro "Python Para Principiantes".
 
 ## ¿Qué cubre este libro?
-Tal como lo indica el libro, es un libro para principiantes. Este libro cubre elementos básicos y fundamentales de programación en Python. Incluyendo temas tales como: computadoras, programación, algoritmos, variables, condicionales, ciclos, funciones, listas, diccionarios, archivos y una breve introducción a librerías. Es un libro corto, diseñado para no abrumar al lector. Encontrarás cientos de piezas de código, diagramas, una hoja de trucos, ejercicios y un enfoque muy práctico de aprendizaje.
+Libro para principiantes en programación y en Python.
+
+Este libro cubre elementos básicos y fundamentales de programación en Python, incluyendo temas tales como: computadoras, programación, algoritmos, variables, condicionales, ciclos, funciones, listas, diccionarios, archivos y una breve introducción a librerías. Es un libro corto, diseñado para no abrumar al lector. Encontrará cientos de piezas de código, diagramas, una hoja de trucos, ejercicios y un enfoque muy práctico de aprendizaje.
 
 Al finalizar la lectura del libro, el lector habrá adquirido conocimientos sobre elementos básicos en programación, que posteriormente podrá aplicar en proyectos más avanzados y que le permitirán adquirir nuevos conocimientos con mayor facilidad.
 
