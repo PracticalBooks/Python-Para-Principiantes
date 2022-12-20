@@ -1,4 +1,4 @@
-# Python Para Principiantes: Aprender a programar con Python de manera práctica y paso a paso (lanzamiento en Enero de 2023)
+# Python Para Principiantes: Aprender a programar con Python de manera práctica y paso a paso
 Repositorio del libro "Python Para Principiantes: Aprender a programar con Python de manera práctica y paso a paso".
 
 <a href="https://www.amazon.com/dp/B0BQN5FF55/"><img src="https://m.media-amazon.com/images/I/31gjcSZv3UL.jpg" alt="Python Para Principiantes" height="256px" align="right">
